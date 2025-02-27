@@ -19,7 +19,7 @@ from io import BytesIO
 # Configuration
 MQTT_BROKER = "mqtt.thingsboard.cloud"
 MQTT_PORT = 1883
-ACCESS_TOKEN = "vf6xjxggehhnn4019dlo"
+ACCESS_TOKEN = "3vux8rlNK1rZ06YI3U39"
 CLIENT_ID = "RPI"
 MODEL_PATH = 'mlp_model.pkl'
 ML_IMAGE_SIZE = 64
